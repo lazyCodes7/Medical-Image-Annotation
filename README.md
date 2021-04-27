@@ -1,2 +1,2 @@
 # Medical-Image-Annotation
-ND project for the image-annotation for pneumonia patients
+ND project for image-annotation for pneumonia patients
